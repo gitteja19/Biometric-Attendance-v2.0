@@ -50,7 +50,8 @@ A robust and scalable biometric attendance system designed for educational insti
 
 ## 📸 Gallery
 
-> _Add images of the device, internals, and sample data here for better presentation._
+A custom 3D-printed, portable biometric attendance system with OLED display and fingerprint sensor.
+<table> <tr> <td align="center"><img src="https://user-images.githubusercontent.com/your-image-host/IMG_20231126_030044.jpg" width="250"/><br><sub><b>Compact Rear View</b></sub></td> <td align="center"><img src="https://user-images.githubusercontent.com/your-image-host/IMG_20231126_025930.jpg" width="250"/><br><sub><b>Front View with Fingerprint Sensor</b></sub></td> <td align="center"><img src="https://user-images.githubusercontent.com/your-image-host/IMG_20231126_025934.jpg" width="250"/><br><sub><b>OLED Display and Sensor Mount</b></sub></td> </tr> </table>
 
 ---
 
