@@ -52,7 +52,7 @@ A robust and scalable biometric attendance system designed for educational insti
 
 
 A custom 3D-printed, portable biometric attendance system with OLED display and fingerprint sensor.
-<table> <tr> <td align="center"><img src="https://github.com/gitteja19/Biometric-Attendance-v2.0/blob/main/IMG_20231126_030044.jpg" width="250"/><br><sub><b>Compact Rear View</b></sub></td> <td align="center"><img src="https://github.com/gitteja19/Biometric-Attendance-v2.0/blob/main/IMG_20231126_025930.jpg" width="250"/><br><sub><b>Front View with Fingerprint Sensor</b></sub></td> <td align="center"><img src="https://github.com/gitteja19/Biometric-Attendance-v2.0/blob/main/IMG_20231126_025934.jpg" width="250"/><br><sub><b>OLED Display and Sensor Mount</b></sub></td> </tr> </table>
+<table> <tr> <td align="center"><img src="https://github.com/gitteja19/Biometric-Attendance-v2.0/blob/main/frontD.png" width="250"/><br><sub><b>Compact Rear View</b></sub></td> <td align="center"><img src="https://github.com/gitteja19/Biometric-Attendance-v2.0/blob/main/topD.png" width="250"/><br><sub><b>Front View with Fingerprint Sensor</b></sub></td> <td align="center"><img src="https://github.com/gitteja19/Biometric-Attendance-v2.0/blob/main/sideD.png" width="250"/><br><sub><b>OLED Display and Sensor Mount</b></sub></td> </tr> </table>
 
 ---
 
